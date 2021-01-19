@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/easybanks/static/css/main.b6a78535.chunk.css",
+    "main.js": "/easybanks/static/js/main.64e04591.chunk.js",
+    "main.js.map": "/easybanks/static/js/main.64e04591.chunk.js.map",
+    "runtime-main.js": "/easybanks/static/js/runtime-main.b50d5c9c.js",
+    "runtime-main.js.map": "/easybanks/static/js/runtime-main.b50d5c9c.js.map",
+    "static/js/2.103b0d71.chunk.js": "/easybanks/static/js/2.103b0d71.chunk.js",
+    "static/js/2.103b0d71.chunk.js.map": "/easybanks/static/js/2.103b0d71.chunk.js.map",
+    "static/js/3.38821f4a.chunk.js": "/easybanks/static/js/3.38821f4a.chunk.js",
+    "static/js/3.38821f4a.chunk.js.map": "/easybanks/static/js/3.38821f4a.chunk.js.map",
+    "index.html": "/easybanks/index.html",
+    "static/css/main.b6a78535.chunk.css.map": "/easybanks/static/css/main.b6a78535.chunk.css.map",
+    "static/js/2.103b0d71.chunk.js.LICENSE.txt": "/easybanks/static/js/2.103b0d71.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/easybanks/static/media/bg-intro-desktop.8be308fd.svg",
+    "static/media/logo.d166a635.svg": "/easybanks/static/media/logo.d166a635.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b50d5c9c.js",
+    "static/js/2.103b0d71.chunk.js",
+    "static/css/main.b6a78535.chunk.css",
+    "static/js/main.64e04591.chunk.js"
+  ]
+}
